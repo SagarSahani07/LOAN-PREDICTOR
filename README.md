@@ -27,7 +27,7 @@ Naive Bayes: Improved accuracy to 82.92%.
 Naive Bayes was selected as the final model for its higher accuracy and reliability on the test dataset.
 Dependencies
 Python 3.x
-Libraries: pandas, numpy, scikit-learn, matplotlib, seabor
+Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 Install dependencies using:
 Code
 pip install -r requirements.txt
