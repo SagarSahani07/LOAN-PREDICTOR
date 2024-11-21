@@ -19,7 +19,7 @@ Credit History
 Property Area
 Loan Approval Status (target variable)
 Model Training and Selection
-Data pre-processing steps included handling missing values and outliers.
+Data pre-processing steps included handling missing values and outliers
 Feature engineering was conducted to enhance predictive accuracy.
 Tested multiple machine learning algorithms:
 Decision Tree: Achieved an accuracy of 70.73%.
