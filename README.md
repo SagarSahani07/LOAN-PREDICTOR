@@ -13,7 +13,7 @@ The dataset includes various attributes of loan applicants, such as:
 
 Applicant Income
 Co-applicant Income
-Loan Amount
+Loan Amount.
 Loan Amount Term
 Credit History
 Property Area
