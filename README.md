@@ -14,7 +14,7 @@ The dataset includes various attributes of loan applicants, such as:
 Applicant Income
 Co-applicant Income
 Loan Amount.
-Loan Amount Term
+Loan Amount Term.
 Credit History
 Property Area
 Loan Approval Status (target variable)
