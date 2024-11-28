@@ -16,7 +16,7 @@ Co-applicant Income
 Loan Amount.
 Loan Amount Term.
 Credit History
-Property Area
+Property Area.
 Loan Approval Status (target variable)
 Model Training and Selection
 Data pre-processing steps included handling missing values and outliers.
