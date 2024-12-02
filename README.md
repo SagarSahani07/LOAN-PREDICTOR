@@ -9,7 +9,7 @@ models/: Saved model files with relevant versioning information.
 src/: Python scripts for data processing, feature engineering, and model training
 README.md: Overview and usage instructions for the project.
 Dataset
-The dataset includes various attributes of loan applicants, such as:
+The dataset includes various attributes of loan applicants, such as
 
 Applicant Income
 Co-applicant Income
