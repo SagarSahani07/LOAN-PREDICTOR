@@ -32,7 +32,7 @@ Install dependencies using:
 Code
 pip install -r requirements.txt
 
-Future Improvements
+Future Improvements.
 Incorporate additional data sources for a more robust model.
 Explore alternative machine learning algorithms.
 Develop a user-friendly interface for non-technical users to interact with the model
