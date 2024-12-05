@@ -10,7 +10,6 @@ src/: Python scripts for data processing, feature engineering, and model trainin
 README.md: Overview and usage instructions for the project.
 Dataset
 The dataset includes various attributes of loan applicants, such as
-
 Applicant Income
 Co-applicant Income
 Loan Amount.
