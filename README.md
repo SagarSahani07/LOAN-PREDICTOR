@@ -7,7 +7,7 @@ data/: Contains the dataset and pre-processing scripts.
 notebooks/: Jupyter notebooks for exploratory data analysis (EDA) and model development.
 models/: Saved model files with relevant versioning information
 src/: Python scripts for data processing, feature engineering, and model training
-README.md: Overview and usage instructions for the project.
+README.md: Overview and usage instructions for the project
 Dataset
 The dataset includes various attributes of loan applicants, such as
 Applicant Income
